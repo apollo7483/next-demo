@@ -3,6 +3,6 @@ const appConfig = {
   cognitoAppClientId: "",
   cognitoIdentityPoolId: "",
   region: "",
-  apiInvokeUrl: "",
+  apiInvokeUrl: "http://nestjs:3001/",
 };
 export default appConfig;
