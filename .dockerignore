@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+.next
+
+# Editor directories and files
+.vscode
+.idea
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dist folder, if you compile your app
+/dist
+
+# Other
+.npmrc
+.npm
+.git
+.gitignore
+README.md
