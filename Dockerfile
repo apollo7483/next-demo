@@ -1,5 +1,5 @@
 
-FROM node:18-alpine AS base
+FROM node:alpine AS base
 
 # ---- DEV Stage ----
 FROM base AS deps
